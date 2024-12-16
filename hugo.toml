@@ -1,7 +1,7 @@
 baseURL = 'https://pehtheme-hugo.netlify.app/'
 languageCode = 'en-us'
 title = 'NLP @ Paris AI Summit 2025'
-theme = 'pehtheme'
+theme = 'dettheme'
 
 paginate = '6' # <- Set the desired number of posts per page 
 summaryLength = '20' # <- 20 words are approximately 160 characters
