@@ -15,6 +15,13 @@ draft: false
 
 ## ANITI
 
+ANITI is the AI cluster of ...
+
+## 3IA Côte d'Azur
+
+The AI cluster of ...
+
 ## ENACT
 
+The AI cluster of ...
 

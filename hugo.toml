@@ -1,4 +1,4 @@
-baseURL = 'https://pehtheme-hugo.netlify.app/'
+baseURL = 'https://ia.loria.fr/aisummit/'
 languageCode = 'en-us'
 title = 'NLP @ Paris AI Summit 2025'
 theme = 'dettheme'
