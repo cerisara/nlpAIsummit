@@ -35,7 +35,7 @@ The AI cluster of ...
 
 Represented by Christophe Cerisara at the event.
 
-<img src="https://ia.loria.fr/aisummit/images/christophe_cerisara23.jpg" width="50%"/>
+<img src="https://ia.loria.fr/aisummit/images/christophe_cerisara23.jpg" width="40%"/>
 
 
 
