@@ -8,6 +8,9 @@ summaryLength = '20' # <- 20 words are approximately 160 characters
 googleAnalytics = '' # <- Your GA-4
 disqusShortname = '' # <- Get form here : https://disqus.com
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
 	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
 	description = 'Natural Language Processing: inspiration and challenges at Paris AI Summit 2025'
