@@ -75,21 +75,14 @@
 
       <div id="comment" class="border p-8 bg-zinc-100 rounded-2xl">
 
-        <h2 class="text-xl font-semibold">Info</h2>
+        <h2 class="text-xl font-semibold">Further information</h2>
 
-        <p>Additional info here</p>
+        <p>{{.Params.info | markdownify}}</p>
 
       </div>
 
-      <div id="author-box" class="my-8 md:my-14 border p-8 bg-zinc-100 rounded-2xl">
-
-        <img class="w-20 h-20 rounded-full" src="{{ .Site.Author.avatar }}" alt="{{ .Site.Author.name }}">
-
-        <h2 class="text-xl font-bold my-4">Writter by : {{ .Site.Params.Author.name }}</h2>
-
-        <p class="mb-4">{{ .Site.Author.bio }}</p>
-       
-      </div>
+      <br>
+      <br>
 
       <div id="related-post" class="">
 
