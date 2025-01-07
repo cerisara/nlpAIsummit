@@ -30,7 +30,7 @@ ANITI will be represented by Nicholas Asher at the event.
 
 3IA Côte d'Azur will be represented by Serena Villata at the event.
 
-![](https://www.inria-academy.fr/wp-content/uploads/2024/03/picture_SV_color.jpg)
+![](https://webusers.i3s.unice.fr/~villata/images/me_CNRS_CROP.jpeg)
 
 ## ENACT
 
