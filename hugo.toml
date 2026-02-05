@@ -1,9 +1,9 @@
-baseURL = 'https://ia.loria.fr/aisummit/'
-languageCode = 'en-us'
-title = 'NLP @ Paris AI Summit 2025'
+baseURL = 'https://ia.loria.fr/frugalday/'
+languageCode = 'fr-fr'
+title = 'Journée frugalité en TAL et ML'
 theme = 'dettheme'
 
-paginate = '6' # <- Set the desired number of posts per page 
+paginate = '4' # <- Set the desired number of posts per page 
 summaryLength = '20' # <- 20 words are approximately 160 characters
 googleAnalytics = '' # <- Your GA-4
 disqusShortname = '' # <- Get form here : https://disqus.com
@@ -13,7 +13,7 @@ unsafe= true
 
 [params]
 	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
-	description = 'Natural Language Processing: inspiration and challenges at Paris AI Summit 2025'
+	description = 'Journée Frugalité en TAL et ML'
 	mainSections = 'posts'
     [[author]]
         name = 'Christophe Cerisara'

@@ -1,33 +1,75 @@
 ---
-title: "The Event"
-date: 2024-12-04T22:11:36+07:00
+title: "La journée"
+date: 2026-02-03T22:11:36+07:00
 slug: /event/
-description: Overview of the event
-image: https://images.pond5.com/nlp-concept-glitch-neural-networks-footage-233797999_iconl.jpeg
-caption: NLP @ AISummit
+description: Description de la journée
+image: https://lejournal.cnrs.fr/sites/default/files/styles/visuel_principal/public/assets/images/adobestock_566468681_vp2.jpg
+caption: Journée Frugalité en IA
 categories:
   - nlp
 tags:
   - nlp
 draft: false
-info: AI Summit website [https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia)
+info: GDR TAL website [https://gdr-tal.cnrs.fr/](https://gdr-tal.cnrs.fr/)
 ---
 
-The AI Action Summit, which will take place on February 10th and 11th 2025, aims to demonstrate usefulness of AI for humanity and highlight the latest developments in the field.
+Thème : Journée « Frugalité » en traitement automatique des langues et machine learning
+Lieu : PSL, site Amyot (3 rue Amyot, 75005 Paris)
+Date de la journée : jeudi 2 avril 2026
+Date limite de soumission : vendredi 13 février 2026
+URL de soumission : https://enquetes.univ-lorraine.fr/index.php/724568
 
-The **NLP event** will be highlighted at the AI Action Summit, particularly during the multi-stakeholder day on February 10.
-We will present the latest breakthroughs regarding major challenges for current LLM-based AI models, in particular
-symbol grounding, logical and pragmatic reasoning and planning, long-form generation and long-context understanding.
-Our event will bring leaders in these challenges showcasing Europe’s and the Cluster AI efforts to solving them: Mirella Lapata (University of Edinburgh), Alexander Koller (University of Saarbruecken, DFKI), Barbara Plank (Universityof Munich), Francesca Toni from University of London as well as Nicholas Asher from the ANIITI cluster who will report on research advances made
-in three French AI clusters: ANIITI, 3IA Côte d'Azur and ENACT.
+Les progrès récents dans les domaines de l’intelligence artificielle ont montré des avancées étonnantes en termes de
+performances et de richesse des applications possibles, avec potentiellement un impact sociétal fort. On peut, au moins en
+partie, attribuer ce succès à l’entraînement auto-supervisé de grands modèles dits “de fondation” sur de grandes quantités de
+données, afin de capturer toute la richesse de leur distribution et par conséquent de réaliser une diversité de tâches. En
+traitement du langage naturel avec les LLM, en vision artificielle avec les “world models”, en traitement des signaux
+acoustiques avec les modèles SSL, et dans bien
+d’autres domaines, cette approche est devenue dominante, soutenue par la volonté de créer un modèle unique pour tous les cas
+d’utilisation.
 
-Importantly our challenge is an interdisciplinary one.
-To solve the mentioned challenges, we first need researchers expert both in computational and linguistic sciences, as
-solving these problems requires a sensitivity to language and problems linguists have studied and amassed knowledge about over centuries, but the tools used require knowledge of modern computational and mathematical techniques.
-In addition, solving our challenges will take a larger interdisciplinary effort, if we take our inspiration for what works from the best learners on the planet---humans.   What we know about the human brain is that cognitive processes do not take place in a vacuum but interact and reinforce each other.  Rather than one general intelligence we have a host of specialized modules that combine vision, language, planning, action all together in what we call the "global workspace."
-It is this interaction that holds the key to solving problems like grounding, but it will impact other challenges as well.
+Les lois de passage à l’échelle poussent à augmenter la taille des modèles, en paramètres, en données et en coût de calcul, à
+la fois à l’entraînement et en inférence (en générant par exemple des raisonnements), afin d’obtenir de meilleures
+performances. Cette approche pousse à des compromis car son rendement est décroissant : le coût de chaque point gagné en
+performance augmente exponentiellement avec la réduction des erreurs. Ce coût devient aussi un problème sociétal, avec des
+conséquences sur l’environnement de plus en plus préoccupantes associées à une adoption généralisée des applications de l’IA.
 
-The impact of solving these challenges will be vast.  LLMs and other powerful neural models have created a lot of successes (leading a Nobel prize for Hopfield and Hinton), but the current limitations of LLMs with regard to the challenges above, could well lead to skepticism concerning their potential.  LLMs continue to be plagued by hallucinations, errors in reasoning and planning.  To palliate these deficiencies, LLMs are now linked to various special use tools and functions to augment their capacities, but those are stopgap measures and engineering solutions rather than scientific advances.  In addition, they fail to fully leverage the important knowledge encoded in LLMs that is needed to pass to the next stage of competence for these models.  A more fundamental solution could put these AI models into many positions of trust, if we do it right.
+Pourtant, les pratiques d'évaluation et de benchmarking de la communauté scientifique et industrielle ont peu changé et les
+mesures de succès ne prennent pas en compte le gigantisme des modèles et le coût global de leur mise en œuvre (écologique,
+économique, sociétal…). Les performances mesurées ignorent les conséquences des modèles sur l’environnement et la diversité de
+tâches et la quantité de données nécessaires pour valider la généralité des modèles
+rendent les évaluations elles-mêmes gourmandes en ressources.
 
-Preliminary results will be presented at the event by lecturers and organizers, such as: (i) a new way of resolving problems in formal and pragmatic reasoning (ii) initial implementations of the global workspace architecture, (iii) ways of improving long tail coherence; (iv) deepening our understanding of pre-training for better in context learning.
+Cette journée s’intéresse prioritairement à la question de construire des méthodologies d'évaluation “socio-écologiquement
+conscientes”, qui soient à la fois capables de diriger les concepteurs de modèles vers un compromis socialement et
+écologiquement acceptable entre performances et ressources, et qui limitent aussi dans leur mise en oeuvre leurs conséquences
+sur l’environnement. Elle s’attache aussi à rassembler la communauté sur toutes les questions liées à la frugalité de
+l’intelligence artificielle, de la mesure des ressources à l’implémentation efficace des modèles.
+
+Les thèmes abordés dans cette journée commune aux GdR TAL, IASIS et MADICS sont, sans être limités à :
+- Mesure de l’impact environnemental et sociétal : impact carbone, métriques, méthodologie de collection…
+- Benchmarks frugaux, protocoles d’évaluation, métriques mélangeant succès à une tâche et impact environnemental : densité en
++information des modèles…
+- Amélioration de l’efficacité des modèles d’IA (en paramètres, temps de traitement, en données, en mémoire…)
+- Recherche d’architecture et apprentissage automatique sous contrainte de budget• Quantification, distillation et décimation
++des modèles
+- Méthodes de faible rang, parcimonie
+- Collection de données et frugalité
+- IA on edge devices, implementation efficace, accélération matérielle
+
+Les soumissions concernent des travaux scientifiques originaux ou déjà publiés mais susceptibles d’intéresser la communauté, et
+seront présentées lors de la journée sous forme de posters. Les soumissions se font au travers d'un résumé de 2 pages maximum,
+dont la pertinence sera validée par un comité scientifique, à l'URL suivante :
+
+https://enquetes.univ-lorraine.fr/index.php/724568
+
+Présentations invitées (titres et résumés à venir) :
+- Gaël Varoquaux
+- Julia Gusack
+- Nicolas Keriven
+- Raphaël Troncy
+
+Organisateurs : Benoit Favre (Aix-Marseille Université, Université Grenoble-Alpes), Alexandre Allauzen (Université Paris
+Dauphine - PSL, ESPCI Paris - PSL), Christophe Cerisara (CNRS, Loria), Paul Caillon (Paris School of AI - PSL).
+
 
