@@ -46,7 +46,7 @@ conscientes”, qui soient à la fois capables de diriger les concepteurs de mod
 sur l’environnement. Elle s’attache aussi à rassembler la communauté sur toutes les questions liées à la frugalité de
 l’intelligence artificielle, de la mesure des ressources à l’implémentation efficace des modèles.
 
-Les thèmes abordés dans cette journée commune aux GdR TAL, IASIS et MADICS sont, sans être limités à :
+Les thèmes abordés dans cette journée commune aux GdR TAL et MADICS sont, sans être limités à :
 - Mesure de l’impact environnemental et sociétal : impact carbone, métriques, méthodologie de collection…
 - Benchmarks frugaux, protocoles d’évaluation, métriques mélangeant succès à une tâche et impact environnemental : densité en
 +information des modèles…
