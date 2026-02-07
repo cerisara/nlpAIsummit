@@ -1,5 +1,5 @@
 ---
-title: "La journée"
+title: "Programme et Appel"
 date: 2026-02-03T22:11:36+07:00
 slug: /event/
 description: Description de la journée
