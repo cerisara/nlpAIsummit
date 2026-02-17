@@ -12,7 +12,7 @@ Comité d'organisation:
 - Paul Caillon
 - Christophe Cerisara
 
-GDR TAL - MADICS
+GDR TAL - MADICS - IASIS
 
 ANR LLM4ALL
 
