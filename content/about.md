@@ -14,5 +14,3 @@ Comité d'organisation:
 
 GDR TAL - MADICS - IASIS
 
-ANR LLM4ALL
-
