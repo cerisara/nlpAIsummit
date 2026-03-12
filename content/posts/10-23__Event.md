@@ -13,11 +13,10 @@ draft: false
 info: GDR TAL website [https://gdr-tal.cnrs.fr/](https://gdr-tal.cnrs.fr/)
 ---
 
-Thème : Journée « Frugalité » en traitement automatique des langues et machine learning
-Lieu : PSL, site Amyot (3 rue Amyot, 75005 Paris)
-Date de la journée : jeudi 2 avril 2026
-Date limite de soumission : vendredi 1 mars 2026
-URL de soumission : https://enquetes.univ-lorraine.fr/index.php/724568
+- Lieu : PSL, site Amyot (3 rue Amyot, 75005 Paris)
+- Date : jeudi 2 avril 2026
+- ~~Date limite de soumission : vendredi 1 mars 2026~~
+- URL d'inscription: https://enquetes.univ-lorraine.fr/index.php/724568
 
 Les progrès récents dans les domaines de l’intelligence artificielle ont montré des avancées étonnantes en termes de
 performances et de richesse des applications possibles, avec potentiellement un impact sociétal fort. On peut, au moins en
@@ -56,12 +55,6 @@ Les thèmes abordés dans cette journée commune aux GdR TAL et MADICS sont, san
 - Méthodes de faible rang, parcimonie
 - Collection de données et frugalité
 - IA on edge devices, implementation efficace, accélération matérielle
-
-Les soumissions concernent des travaux scientifiques originaux ou déjà publiés mais susceptibles d’intéresser la communauté, et
-seront présentées lors de la journée sous forme de posters. Les soumissions se font au travers d'un résumé de 2 pages maximum,
-dont la pertinence sera validée par un comité scientifique, à l'URL suivante :
-
-https://enquetes.univ-lorraine.fr/index.php/724568
 
 Présentations invitées (titres et résumés à venir) :
 - Gaël Varoquaux
