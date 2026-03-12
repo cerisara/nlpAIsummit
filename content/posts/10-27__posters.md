@@ -23,8 +23,6 @@ Posters acceptés:
     - LEGUILLIER,Hugo; MATROUF,Dris; LECHIEN,Guillaume; ROUVIER,Mickael
 - 7 An economic approach for crowd-sourced ASR data validation using a combination of self-learning and active-learning
     - Mohammadamini,Mohammad; Tahon,Marie
-- 8 Hybrid Canonicalization of Intelligence Knowledge Graphs: A Frugal and Explainable Approach
-    - Jourdain,Louis; Degez,Pauline
 - 12 Sous-échantillonnage pour l'apprentissage supervisé non-paramétrique dans les RKHS
     - Eyal,Vayness; Maxime,Sangnier
 - 14 RAViT: Resolution-Adaptive Vision Transformer
