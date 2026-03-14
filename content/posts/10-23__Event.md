@@ -17,6 +17,63 @@ info: GDR TAL website [https://gdr-tal.cnrs.fr/](https://gdr-tal.cnrs.fr/)
 - Date : jeudi 2 avril 2026
 - ~~Date limite de soumission : vendredi 1 mars 2026~~
 - URL d'inscription: https://enquetes.univ-lorraine.fr/index.php/724568
+- Date limite d'inscription : jeudi 19 mars 2026
+
+**Programme:**
+
+<table>                                                               
+            <thead>                                                           
+                <tr>                                                          
+                    <th>Heure</th>                                            
+                    <th>Événement</th>                                        
+                </tr>                                                         
+            </thead>                                                          
+            <tbody>                                                           
+                <tr>                                                          
+                    <td>9h15 – 9h45</td>                                      
+                    <td>Accueil café</td>                                     
+                </tr>                                                         
+                <tr>                                                          
+                    <td>9h45</td>                                             
+                    <td>Introduction</td>                                     
+                </tr>                                                         
+                <tr>                                                          
+                    <td>10h00 – 11h00</td>                                    
+                    <td>Invité - Gaël Varoquaux</td>                          
+                </tr>                                                         
+                <tr>                                                          
+                    <td>11h00 – 12h00</td>                                    
+                    <td>Invité - Nicolas Keriven</td>                         
+                </tr>                                                         
+                <tr>                                 
+                    <td>12h00 – 13h30</td>                                    
+                    <td>Pause déjeuner / échanges / posters</td>              
+                </tr>                                                         
+                <tr>                                                          
+                    <td>13h30 – 14h30</td>                                    
+                    <td>Invitée - Julia Gusak</td>                            
+                </tr>                                                         
+                <tr>                                                          
+                    <td>14h30 – 15h30</td>                                    
+                    <td>Invitée - Aurélie Névéol</td>                         
+                </tr>                                                         
+                <tr>                                                          
+                    <td>15h30 – 16h00</td>                                    
+                    <td>Pause café et session posters</td>                    
+                </tr>                                                         
+                <tr>                                                          
+                    <td>16h00 – 17h00</td>                                    
+                    <td>Table ronde: “IA et carbone: sauveur, bourreau ou     
+  écran de fumée ?”</td>                                                      
+                </tr>                                                         
+                <tr>                                                          
+                    <td>17h00</td>                                            
+                    <td>Clôture</td>                                          
+                </tr>                                                         
+            </tbody>                                                          
+        </table>                               
+
+**Description:**
 
 Les progrès récents dans les domaines de l’intelligence artificielle ont montré des avancées étonnantes en termes de
 performances et de richesse des applications possibles, avec potentiellement un impact sociétal fort. On peut, au moins en
