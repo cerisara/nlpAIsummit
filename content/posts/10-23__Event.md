@@ -51,7 +51,7 @@ info: GDR TAL website [https://gdr-tal.cnrs.fr/](https://gdr-tal.cnrs.fr/)
                 </tr>                                                         
                 <tr>                                                          
                     <td>13h30 – 14h30</td>                                    
-                    <td>Invitée - Julia Gusak</td>                            
+                    <td>Invitée - Julia Gusack</td>                            
                 </tr>                                                         
                 <tr>                                                          
                     <td>14h30 – 15h30</td>                                    
