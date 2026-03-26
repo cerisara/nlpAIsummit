@@ -51,7 +51,7 @@ info: GDR TAL website [https://gdr-tal.cnrs.fr/](https://gdr-tal.cnrs.fr/)
                 </tr>                                                         
                 <tr>                                                          
                     <td>13h30 – 14h30</td>                                    
-                    <td>Invitée - Julia Gusack</td>                            
+                    <td>Invitée - Julia Gusak</td>                            
                 </tr>                                                         
                 <tr>                                                          
                     <td>14h30 – 15h30</td>                                    
@@ -114,9 +114,10 @@ Les thèmes abordés dans cette journée commune aux GdR TAL et MADICS sont, san
 - IA on edge devices, implementation efficace, accélération matérielle
 
 Présentations invitées (titres et résumés à venir) :
-- Gaël Varoquaux
-- Julia Gusack
+- Julia Gusak
 - Nicolas Keriven
+- Aurélie Névéol
+- Gaël Varoquaux
 
 Organisateurs : Benoit Favre (Aix-Marseille Université, Université Grenoble-Alpes), Alexandre Allauzen (Université Paris
 Dauphine - PSL, ESPCI Paris - PSL), Christophe Cerisara (CNRS, Loria), Paul Caillon (Paris School of AI - PSL).
