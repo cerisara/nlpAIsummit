@@ -15,9 +15,6 @@ info: GDR TAL website [https://gdr-tal.cnrs.fr/](https://gdr-tal.cnrs.fr/)
 
 - Lieu : PSL, site Amyot (3 rue Amyot, 75005 Paris)
 - Date : jeudi 2 avril 2026
-- ~~Date limite de soumission : vendredi 1 mars 2026~~
-- URL d'inscription: https://enquetes.univ-lorraine.fr/index.php/724568
-- Date limite d'inscription : jeudi 19 mars 2026
 
 **Programme:**
 
