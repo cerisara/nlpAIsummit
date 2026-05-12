@@ -110,7 +110,7 @@ Les thèmes abordés dans cette journée commune aux GdR TAL et MADICS sont, san
 - Collection de données et frugalité
 - IA on edge devices, implementation efficace, accélération matérielle
 
-Présentations invitées (titres et résumés à venir) :
+Présentations invitées :
 - Julia Gusak
 - Nicolas Keriven
 - Aurélie Névéol
